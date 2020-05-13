@@ -7,6 +7,7 @@ A simple comparison of vanilla celery and kafka comparison
 ### Virtual environment
 ```
 mkvirtualenv --python-which python3 ckc
+workon ckc
 ```
 
 ### Install python packages
